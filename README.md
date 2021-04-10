@@ -1,2 +1,2 @@
 # The-Sparks-Foundation-Tasks
-A repository for the codees of Data Science and Analysis Internship tasks.
+A repository for the codes of Data Science & Business Analytics Internship tasks.
